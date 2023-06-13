@@ -1,0 +1,12 @@
+{
+  "name": "examen-tecnico",
+  "version": "1.0.0",
+  "description": "- Creamos una funcion 'encontrarSumaDosElementos' en donde se le pasa el array y el numero requerido.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
