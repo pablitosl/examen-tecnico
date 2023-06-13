@@ -1,4 +1,5 @@
-## Examen tecnico de  Pigmalion Software
+## Examen tecnico de  Pigmalion Software (Hecho en JavaScript, node.js)
+https://replit.com/@PabloCastro19/examen-tecnico-1
 
 - Creamos una funcion 'encontrarSumaDosElementos' en donde se le pasa el array y el numero requerido.
 
