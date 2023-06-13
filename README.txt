@@ -1,4 +1,4 @@
-# Examen tecnico de  Pigmalion Software
+## Examen tecnico de  Pigmalion Software
 
 - Creamos una funcion 'encontrarSumaDosElementos' en donde se le pasa el array y el numero requerido.
 
